@@ -20,6 +20,6 @@ This website was created by me except for starter code for the title card up abo
 
 website example img:
 
-![day planner](./Assets/Capture.PNG)
+![day planner](./assets/images/Capture.PNG)
 
 Website URL: https://calvinjacobsen.github.io/Workday-Scheduler/
