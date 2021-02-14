@@ -22,4 +22,4 @@ website example img:
 
 ![day planner](./Assets/Capture.PNG)
 
-Website URL: https://calvinjacobsen.github.io/Workday-Scheduler/index.html
+Website URL: https://calvinjacobsen.github.io/Workday-Scheduler/
